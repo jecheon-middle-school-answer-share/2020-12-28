@@ -54,7 +54,7 @@
 
 ## 4교시 - 국어
 ### 바로가기
-[국어 바로가기](https://rang.edunet.net/class/G000323851/hmwkppList.do?hmwkSeq=733222&hmwkTypeCd=ALL)
+[국어 바로가기](https://rang.edunet.net/class/G000323851/hmwkppList.do?hmwkSeq=750029&hmwkTypeCd=ALL)
 ### 문제
 ```
 1. 연우는 누구를 대상으로 하여 '소개하는 말하기'를 준비하고 있나요?
@@ -69,6 +69,8 @@
 (예-청중이 내 말을 지루해하고 싫어할 거라는 생각이 든다.)
 ```
 ### 정답
+1. 친구들
+2. 친구들이 이해하는 것
 ### 참고 자료
 [영상 보러가기](http://m.tsherpa.co.kr/media/mediaframe.aspx?fcode=A20200519_0147)
 
@@ -100,7 +102,7 @@
 ### 정답
 1. 경제 개발 5개년 계획
 2. 싱가폴, 홍콩, 대만, 한국
-4.
+4. 한강의 기적
 ### 참고 자료
 [![Youtube](http://img.youtube.com/vi/vSGDxYEpIWc/0.jpg)](https://www.youtube.com/embed/vSGDxYEpIWc "Youtube")
 
